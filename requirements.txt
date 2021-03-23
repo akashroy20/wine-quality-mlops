@@ -1,6 +1,13 @@
+# local package
+-e .
+
+# 3rd party packages
 dvc
 dvc[gdrive]
 sklearn
 pandas
 pytest
 tox
+#flake8
+flask
+gunicorn
